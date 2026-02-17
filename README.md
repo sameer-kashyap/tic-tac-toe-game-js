@@ -32,17 +32,3 @@ The goal of this project was to:
 - Clean and modern UI
 - Simple and beginner-friendly code
 
----
-
-## 📂 Project Structure
-
-```text
-Tic-Tac-Toe/
-│
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   └── win-celebration.gif
-└── README.md
-
